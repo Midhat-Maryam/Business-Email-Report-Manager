@@ -1,0 +1,2 @@
+💬 Response:
+ {"results": "Tech sector showing 15% growth in Q1 2026"}
